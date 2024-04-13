@@ -545,5 +545,11 @@
             "Return",
             "Comment"
         ]
-    }
+    },
+    {
+        "name": "SHEContainer",
+        "ops": [
+            "SHEContainerGeneration"
+        ]
+    }  
 ]
